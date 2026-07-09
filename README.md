@@ -12,8 +12,19 @@ JSON Server -> for simulating a mock REST API
 JSON Authentication -> for handling secure endpoints with token-based authentication
 
 #Project Structure
-├── postman_collections/   # Postman collections & environments
-├── newman_reports/        # Newman HTML/JSON reports
-├── jenkins_pipeline/      # Jenkinsfile & pipeline configs
-├── json-server/           # Mock API setup
-└── README.md              # Project documentation
+
+├── postman_collections/   
+Postman collections & environments
+
+├── newman_reports/        
+ Newman HTML/JSON reports
+ 
+├── jenkins_pipeline/     
+ Jenkinsfile & pipeline configs
+ 
+├── json-server/          
+ Mock API setup
+ 
+
+├── README.md             
+ Project documentation
